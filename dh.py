@@ -21,3 +21,4 @@ with gzip.open(file_path, "rb") as f:
         for aa in nik['eventName']:
             print(aa)
 
+printf("hello  nikyng")
